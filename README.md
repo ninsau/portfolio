@@ -17,3 +17,5 @@ _Using this sample as a guide,_
 - Use Font Awesome in your project
 - Both external stylesheets have been included in the **css/ folder**
 - Upload your markup onto your github page when you are done.
+
+You can find the view of the [sample portfolio](https://www.theprogrammershub.net) 
