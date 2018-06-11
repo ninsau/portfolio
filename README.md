@@ -18,4 +18,4 @@ _Using this sample as a guide,_
 - Both external stylesheets have been included in the **css/ folder**
 - Upload your markup onto your github page when you are done.
 
-**You can find the view of the** [sample portfolio here](https://www.theprogrammershub.net).
+**You can find the view of the** [sample portfolio here](https://www.theprogrammershub.net/portfolio).
